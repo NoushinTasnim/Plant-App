@@ -1,16 +1,12 @@
-# plant_app
+<h1>Plant App</h1>
+<p align="center">
+  <img src="https://github.com/NoushinTasnim/Plant-App/blob/main/Artboard%201.jpg" alt="App Screenshot" width="1000" />
+</p>
+<h2>Overview</h2>
+<p>This is the frontend of an e-commerce plant app.</p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <h2>Technical Details</h2>
+<ul>
+        <li><strong>Framework:</strong> Flutter</li>
+        <li><strong>Language:</strong> Dart</li>
+    </ul>
